@@ -1,0 +1,35 @@
+.odd-number {
+    /* color: white; */
+    background-color: rgb(241, 149, 163);
+    font-family: Verdana 'DejaVu Sans' sans-serif;
+/*     font-weight: bold;
+    font-size: 36px;
+    text-align: center; */
+  }
+
+  .nr-3 {
+    /* color: white; */
+/*     background-color: rgb(241, 149, 163);
+    font-family: Verdana 'DejaVu Sans' sans-serif; */
+    /* font-weight: bold; */
+    font-size: 24px;
+    /* text-align: center; */
+  }
+
+  #nr-2 {
+    color: blue;
+  /*   background-color: rgb(241, 149, 163);
+    font-family: Verdana 'DejaVu Sans' sans-serif; */
+    /* font-weight: bold; */
+    font-size: 36px;
+    /* text-align: center; */
+  }
+
+  #nr-4 {
+    /* color: white; */
+    background-color: rgb(147, 229, 140);
+ /*    font-family: Verdana 'DejaVu Sans' sans-serif; */
+    font-weight: bold;
+    font-size: 24px;
+ /*    text-align: center; */
+  }
