@@ -1,0 +1,17 @@
+.blackbutton,
+.yellowbutton {
+
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+  font-size: 28px;
+}
+
+.blackbutton {
+  /* several unique declarations */
+  color: white;
+  background-color: black;
+}
+
+.yellowbutton {
+  /* several unique declarations */
+  background-color: yellow;
+}
