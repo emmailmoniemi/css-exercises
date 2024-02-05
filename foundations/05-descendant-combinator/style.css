@@ -1,0 +1,11 @@
+.container .text {
+    color: red;
+    background: yellow;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .avatar.distorted {
+    height: 400px;
+    width: 200px;
+  }
