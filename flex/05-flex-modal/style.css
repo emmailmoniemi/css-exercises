@@ -26,10 +26,7 @@ body {
   gap: 10px;
 }
 
-.rightside {
-/*  display: flex;
- flex-direction: column; */
-}
+
 
 .header {
  display: flex;
